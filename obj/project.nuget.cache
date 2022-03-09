@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y97FJUOZeR71B7esWpzek4LCBwfHdwJzVCTZsoaqopNcTcY1qgbed+BGxvi7f6jOC910KZwYFAR3p4xMcqHKaA==",
+  "dgSpecHash": "yxNGwXqHRvC/rJ+R5Bb2dENNXUlNm4uROk91PZEwYS5TAeayQ4fCRYlMyzSgtERO9ci27lHUYl5Dz9ibXHpLuA==",
   "success": true,
-  "projectFilePath": "J:\\Projets\\C#\\APPS\\GestionAbsences\\GestionAbsences.csproj",
+  "projectFilePath": "C:\\Users\\boyer\\source\\repos\\app_gestion_absences\\GestionAbsences.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

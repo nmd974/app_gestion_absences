@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Projets\\C#\\APPS\\GestionAbsences\\GestionAbsences.csproj": {}
+    "C:\\Users\\boyer\\source\\repos\\app_gestion_absences\\GestionAbsences.csproj": {}
   },
   "projects": {
-    "J:\\Projets\\C#\\APPS\\GestionAbsences\\GestionAbsences.csproj": {
+    "C:\\Users\\boyer\\source\\repos\\app_gestion_absences\\GestionAbsences.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Projets\\C#\\APPS\\GestionAbsences\\GestionAbsences.csproj",
+        "projectUniqueName": "C:\\Users\\boyer\\source\\repos\\app_gestion_absences\\GestionAbsences.csproj",
         "projectName": "GestionAbsences",
-        "projectPath": "J:\\Projets\\C#\\APPS\\GestionAbsences\\GestionAbsences.csproj",
-        "packagesPath": "C:\\Users\\jhapa\\.nuget\\packages\\",
-        "outputPath": "J:\\Projets\\C#\\APPS\\GestionAbsences\\obj\\",
+        "projectPath": "C:\\Users\\boyer\\source\\repos\\app_gestion_absences\\GestionAbsences.csproj",
+        "packagesPath": "C:\\Users\\boyer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\boyer\\source\\repos\\app_gestion_absences\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jhapa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\boyer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0-windows7.0"
