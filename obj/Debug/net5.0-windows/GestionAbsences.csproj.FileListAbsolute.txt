@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 J:\Projets\C#\APPS\GestionAbsences\bin\Debug\net5.0-windows\GestionAbsences.exe
 J:\Projets\C#\APPS\GestionAbsences\bin\Debug\net5.0-windows\GestionAbsences.deps.json
 J:\Projets\C#\APPS\GestionAbsences\bin\Debug\net5.0-windows\GestionAbsences.runtimeconfig.json
@@ -24,3 +25,27 @@ J:\Projets\C#\APPS\GestionAbsences\obj\Debug\net5.0-windows\ref\GestionAbsences.
 J:\Projets\C#\APPS\GestionAbsences\obj\Debug\net5.0-windows\GestionAbsences.pdb
 J:\Projets\C#\APPS\GestionAbsences\obj\Debug\net5.0-windows\GestionAbsences.genruntimeconfig.cache
 J:\Projets\C#\APPS\GestionAbsences\obj\Debug\net5.0-windows\App.baml
+=======
+C:\Users\boyer\Source\Repos\app_gestion_absences\bin\Debug\net5.0-windows\GestionAbsences.exe
+C:\Users\boyer\Source\Repos\app_gestion_absences\bin\Debug\net5.0-windows\GestionAbsences.deps.json
+C:\Users\boyer\Source\Repos\app_gestion_absences\bin\Debug\net5.0-windows\GestionAbsences.runtimeconfig.json
+C:\Users\boyer\Source\Repos\app_gestion_absences\bin\Debug\net5.0-windows\GestionAbsences.runtimeconfig.dev.json
+C:\Users\boyer\Source\Repos\app_gestion_absences\bin\Debug\net5.0-windows\GestionAbsences.dll
+C:\Users\boyer\Source\Repos\app_gestion_absences\bin\Debug\net5.0-windows\ref\GestionAbsences.dll
+C:\Users\boyer\Source\Repos\app_gestion_absences\bin\Debug\net5.0-windows\GestionAbsences.pdb
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences_MarkupCompile.cache
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences_MarkupCompile.lref
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences.g.resources
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences.AssemblyInfoInputs.cache
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences.AssemblyInfo.cs
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences.csproj.CoreCompileInputs.cache
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences.dll
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\ref\GestionAbsences.dll
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences.pdb
+C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences.genruntimeconfig.cache
+C:\Users\boyer\source\repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences.csproj.AssemblyReference.cache
+>>>>>>> a83a0de732714936f0d7c48bac74f784021ee7bc

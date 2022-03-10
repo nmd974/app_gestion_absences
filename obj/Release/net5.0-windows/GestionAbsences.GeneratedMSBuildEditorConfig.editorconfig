@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = GestionAbsences
-build_property.ProjectDir = C:\Users\boyer\source\repos\app_gestion_absences\
+build_property.ProjectDir = C:\Users\boyer\Source\Repos\app_gestion_absences\
