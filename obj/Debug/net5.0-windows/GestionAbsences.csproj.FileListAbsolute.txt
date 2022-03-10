@@ -19,3 +19,4 @@ C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\Gestio
 C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\ref\GestionAbsences.dll
 C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences.pdb
 C:\Users\boyer\Source\Repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences.genruntimeconfig.cache
+C:\Users\boyer\source\repos\app_gestion_absences\obj\Debug\net5.0-windows\GestionAbsences.csproj.AssemblyReference.cache
