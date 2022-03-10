@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Y97FJUOZeR71B7esWpzek4LCBwfHdwJzVCTZsoaqopNcTcY1qgbed+BGxvi7f6jOC910KZwYFAR3p4xMcqHKaA==",
+  "dgSpecHash": "NVCw+N4379KUOhsdMt/RaKnafh7SG74kVfugDUA+6/2jOFWFrANjUKWkrmhNp9Mz/hEE3IPx0Bj+9V+Nkc757w==",
   "success": true,
   "projectFilePath": "J:\\Projets\\C#\\APPS\\GestionAbsences\\GestionAbsences.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jhapa\\.nuget\\packages\\materialdesigncolors\\2.0.4\\materialdesigncolors.2.0.4.nupkg.sha512",
+    "C:\\Users\\jhapa\\.nuget\\packages\\materialdesignthemes\\4.3.0\\materialdesignthemes.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
