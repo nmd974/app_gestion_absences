@@ -23,3 +23,4 @@ J:\Projets\C#\APPS\GestionAbsences\obj\Debug\net5.0-windows\GestionAbsences.dll
 J:\Projets\C#\APPS\GestionAbsences\obj\Debug\net5.0-windows\ref\GestionAbsences.dll
 J:\Projets\C#\APPS\GestionAbsences\obj\Debug\net5.0-windows\GestionAbsences.pdb
 J:\Projets\C#\APPS\GestionAbsences\obj\Debug\net5.0-windows\GestionAbsences.genruntimeconfig.cache
+J:\Projets\C#\APPS\GestionAbsences\obj\Debug\net5.0-windows\App.baml
